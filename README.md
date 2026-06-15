@@ -14,7 +14,6 @@ Principais elementos utilizados:
 
 O HTML funciona como o esqueleto da aplicação, definindo quais informações serão exibidas ao usuário.
 
-⸻
 
 2. Estilização da Interface – CSS3
 
@@ -30,7 +29,6 @@ Foram aplicadas técnicas como:
 
 O CSS é responsável pelo design da página, separando a apresentação da estrutura criada em HTML.
 
-⸻
 
 3. Interatividade – JavaScript
 
@@ -41,11 +39,9 @@ Exemplos de recursos implementados:
 * Alternância entre tema claro e escuro;
 * Resposta a cliques em botões;
 * Manipulação de elementos da página;
-* Melhor experiência para o usuário.
 
 O JavaScript permite que o site responda às ações do visitante sem necessidade de recarregar a página.
 
-⸻
 
 4. Processamento de Dados – PHP
 
@@ -59,7 +55,6 @@ Sua principal função no projeto foi:
 
 O PHP é uma linguagem de programação executada no servidor, muito utilizada para sistemas web e aplicações dinâmicas.
 
-⸻
 
 5. Controle de Versão – Git e GitHub
 
