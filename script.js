@@ -1,1 +1,3 @@
-function mudarTema(){document.body.classList.toggle('dark');}
+function mudarTema(){
+    document.body.classList.toggle("claro");
+}
