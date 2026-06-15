@@ -1,4 +1,5 @@
 # curriculo-web
+Link do Currículo: https://luizfernandonascimentoribeiro-code.github.io/curriculo-web/
 1. Estrutura da Página – HTML5
 
 O HTML5 foi utilizado para criar a estrutura do site, organizando o conteúdo em seções como dados pessoais, formação acadêmica, habilidades, projetos e contato.
